@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://cctvjawa.vercel/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.13' -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://cctvjawa.vercel.app/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.13' -->
 <!-- generated-on='August 29, 2023 4:13 am' -->
 <sitemapindex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<sitemap>
-		<loc>https://cctvjawa.vercel/sitemap-misc.xml</loc>
+		<loc>https://cctvjawa.vercel.app/sitemap-misc.xml</loc>
 		<lastmod>2023-08-28T03:56:23+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cctvjawa.vercel/sitemap-pt-wilayah-p1-2023-08.xml</loc>
+		<loc>https://cctvjawa.vercel.app/sitemap-pt-wilayah-p1-2023-08.xml</loc>
 		<lastmod>2023-08-28T03:55:21+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cctvjawa.vercel/sitemap-pt-page-p1-2023-08.xml</loc>
+		<loc>https://cctvjawa.vercel.app/sitemap-pt-page-p1-2023-08.xml</loc>
 		<lastmod>2023-08-22T08:10:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://cctvjawa.vercel/sitemap-pt-page-p1-2021-04.xml</loc>
+		<loc>https://cctvjawa.vercel.app/sitemap-pt-page-p1-2021-04.xml</loc>
 		<lastmod>2023-08-28T03:56:23+00:00</lastmod>
 	</sitemap>
 </sitemapindex><!-- Request ID: 8d7b5559aec76124531f32d8d206facc; Queries for sitemap: 6; Total queries: 42; Seconds: $end_time; Memory for sitemap: 0MB; Total memory: 16MB -->

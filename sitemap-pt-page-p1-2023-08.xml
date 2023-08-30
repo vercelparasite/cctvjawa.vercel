@@ -1,85 +1,85 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://cctvjawa.vercel/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.13' -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://cctvjawa.vercel.app/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.13' -->
 <!-- generated-on='August 29, 2023 3:01 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
-		<loc>https://cctvjawa.vercel/ezviz</loc>
+		<loc>https://cctvjawa.vercel.app/ezviz</loc>
 		<lastmod>2023-08-22T08:02:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/samsung</loc>
+		<loc>https://cctvjawa.vercel.app/samsung</loc>
 		<lastmod>2023-08-22T08:01:23+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/infinity</loc>
+		<loc>https://cctvjawa.vercel.app/infinity</loc>
 		<lastmod>2023-08-22T08:08:18+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/uniview</loc>
+		<loc>https://cctvjawa.vercel.app/uniview</loc>
 		<lastmod>2023-08-22T08:10:42+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/zkteco</loc>
+		<loc>https://cctvjawa.vercel.app/zkteco</loc>
 		<lastmod>2023-08-22T08:10:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/dahua</loc>
+		<loc>https://cctvjawa.vercel.app/dahua</loc>
 		<lastmod>2023-08-22T08:06:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/glenz</loc>
+		<loc>https://cctvjawa.vercel.app/glenz</loc>
 		<lastmod>2023-08-22T08:06:40+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/hikvision</loc>
+		<loc>https://cctvjawa.vercel.app/hikvision</loc>
 		<lastmod>2023-08-22T08:09:14+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/hilook</loc>
+		<loc>https://cctvjawa.vercel.app/hilook</loc>
 		<lastmod>2023-08-22T08:05:14+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/omniview</loc>
+		<loc>https://cctvjawa.vercel.app/omniview</loc>
 		<lastmod>2023-08-22T08:04:50+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/panasonic</loc>
+		<loc>https://cctvjawa.vercel.app/panasonic</loc>
 		<lastmod>2023-08-22T08:04:41+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/honeywell</loc>
+		<loc>https://cctvjawa.vercel.app/honeywell</loc>
 		<lastmod>2023-08-22T08:04:31+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/merk</loc>
+		<loc>https://cctvjawa.vercel.app/merk</loc>
 		<lastmod>2023-08-22T08:03:12+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/spc</loc>
+		<loc>https://cctvjawa.vercel.app/spc</loc>
 		<lastmod>2023-08-22T08:04:10+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>

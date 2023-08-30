@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://cctvjawa.vercel/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.13' -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://cctvjawa.vercel.app/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.13' -->
 <!-- generated-on='August 29, 2023 2:52 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
-		<loc>https://cctvjawa.vercel/</loc>
+		<loc>https://cctvjawa.vercel.app/</loc>
 		<lastmod>2023-08-28T03:56:23+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>https://cctvjawa.vercel/sitemap.html</loc>
+		<loc>https://cctvjawa.vercel.app/sitemap.html</loc>
 		<lastmod>2023-08-28T03:56:23+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
